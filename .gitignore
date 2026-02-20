@@ -1,0 +1,9 @@
+# Local data file
+users.json
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual env
+.venv/
